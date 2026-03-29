@@ -1,96 +1,170 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Shahnoor%20%F0%9F%91%8B&fontSize=42&fontColor=fff&fontAlignY=38&desc=Java%20Developer%20from%20Mumbai%2C%20India&descAlignY=58&descColor=aaa&animation=twinkling" width="100%"/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Java+Developer+%7C+J2EE+%7C+Full+Stack;Core+Java+%7C+Servlet+%7C+JSP+%7C+Hibernate;BSc+IT+%E2%80%94+9.0+CGPA+%F0%9F%8E%93;Building+efficient+%26+clean+solutions;Open+to+work+%E2%80%94+Available+immediately!)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-### About Me
-
-- **Java Developer** specializing in Core & Advanced Java
-- Completed **BSc IT** with **9.0 CGPA** from Akbar Peerbhoy College
-- Certified in **Java Full Stack** from Anudip Foundation
-- Worked as **Community Educator** at Apnalaya, Mumbai
-- Taught Java programming & mentored students for 1+ year
-- Strong in **OOP**, **J2EE**, **Servlet/JSP**, **Hibernate**, **JDBC**
-- Quick learner — always ready to take on new challenges
-- Based in **Mumbai, India**
-- Available to **join immediately**
-
-<br clear="right"/>
-
----
-
-### Tech I Work With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,postgres,hibernate,html,css,js,bootstrap,git,github,eclipse,linux&perline=6&theme=dark"/>
-
-</div>
-
----
-
-### What I've Built
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=3&section=header" width="100%"/>
 
 ```
- E-Notes System        →  Servlet + JSP + MySQL       | Full CRUD note manager with auth
- Student Management    →  JDBC + MySQL + Java          | Add / view / delete student records
- Fee Management        →  Servlet + Oracle + MySQL     | Admin & accountant role-based portal
- Portfolio Website     →  HTML + CSS + JS + Bootstrap  | Hosted on GitHub Pages
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║   ░██████╗██╗  ██╗ █████╗ ██╗  ██╗███╗  ██╗ ██████╗  ██████╗ ██████╗          ║
+║   ██╔════╝██║  ██║██╔══██╗██║  ██║████╗ ██║██╔═══██╗██╔═══██╗██╔══██╗         ║
+║   ╚█████╗ ███████║███████║███████║██╔██╗██║██║   ██║██║   ██║██████╔╝         ║
+║    ╚═══██╗██╔══██║██╔══██║██╔══██║██║╚████║██║   ██║██║   ██║██╔══██╗         ║
+║   ██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚███║╚██████╔╝╚██████╔╝██║  ██║         ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝         ║
+║                                                                                  ║
+║                  [ JAVA DEVELOPER  ·  MUMBAI, INDIA ]                           ║
+║                  [ AVAILABLE TO JOIN · IMMEDIATELY  ]                           ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1200&color=E8D5A3&background=00000000&center=true&vCenter=true&width=580&lines=%24+whoami+--+java+developer+%7C+j2ee+specialist;%24+skills+--+servlet+%7C+jsp+%7C+hibernate+%7C+jdbc;%24+education+--+bsc.it+%7C+cgpa%3A+9.0+%7C+akbar+peerbhoy+college;%24+status+--+open.to.work%3D%3Dtrue+%26%26+joining%3D%3Dimmediate;%24+location+--+%2Fhome%2Fmumbai%2Findia)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+`CORE JAVA` &nbsp;·&nbsp; `ADVANCED JAVA` &nbsp;·&nbsp; `J2EE` &nbsp;·&nbsp; `SERVLET` &nbsp;·&nbsp; `JSP` &nbsp;·&nbsp; `HIBERNATE` &nbsp;·&nbsp; `JDBC` &nbsp;·&nbsp; `MYSQL` &nbsp;·&nbsp; `POSTGRESQL`
+
+</div>
+
+---
+
+## `> IDENTITY`
+
+```yaml
+name         : Shahnoor Shaikh
+role         : Java Developer
+location     : Mumbai, Maharashtra, India
+contact      : official.shahnoor@gmail.com
+portfolio    : shaikhshahnoor07.github.io/portfolio
+education    : BSc Information Technology — 9.0 CGPA
+institution  : Akbar Peerbhoy College (University of Mumbai)
+certified    : Java Full Stack — Anudip Foundation (4 months)
+experience   : Community Educator @ Apnalaya (2022–2023, 1yr+)
+status       : AVAILABLE · IMMEDIATE JOINER
+passion      : Building efficient, clean, and scalable solutions
 ```
 
 ---
 
-### Skills Snapshot
-
-| Area | Technologies |
-|---|---|
-| **Language** | Java 8, Core Java, Advanced Java |
-| **Backend** | Servlet, JSP, J2EE, JDBC, Hibernate ORM |
-| **Database** | MySQL, PostgreSQL, Oracle |
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap 5 |
-| **Tools** | Eclipse, NetBeans, Apache Tomcat 10.1, GIT |
-| **OS** | Windows, Linux |
-
----
-
-### Highlights
+## `> ARSENAL`
 
 <div align="center">
 
-![CGPA](https://img.shields.io/badge/CGPA-9.0%20%2F%2010.0-gold?style=for-the-badge&logo=graduation-cap&logoColor=black)
-![Projects](https://img.shields.io/badge/Projects-4%20Built-blueviolet?style=for-the-badge&logo=github&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-1%2B%20Year-blue?style=for-the-badge&logo=briefcase&logoColor=white)
-![Open To Work](https://img.shields.io/badge/Open%20To%20Work-YES-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,mysql,postgres,hibernate&theme=dark&perline=4"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark&perline=4"/>
+
+<img src="https://skillicons.dev/icons?i=eclipse,git,github,linux&theme=dark&perline=4"/>
+
+</div>
+
+<br/>
+
+```
+BACKEND      ████████████████████░░░░  Java 8 · Servlet · JSP · J2EE · Hibernate · JDBC
+DATABASE     ██████████████████░░░░░░  MySQL · PostgreSQL · Oracle · JDBC
+FRONTEND     █████████████░░░░░░░░░░░  HTML5 · CSS3 · JavaScript · Bootstrap 5
+TOOLING      ████████████████░░░░░░░░  Eclipse · NetBeans · Apache Tomcat 10.1 · Git
+SYSTEMS      ████████████░░░░░░░░░░░░  MS Windows · Linux
+```
+
+---
+
+## `> PROJECTS`
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  01  E-NOTES MANAGEMENT SYSTEM                          [Servlet/JSP/MySQL] │
+│      ─────────────────────────────────────────────────────────────────────  │
+│      Full CRUD note platform · User auth · Responsive HTML5/CSS UI          │
+│      Stack → Eclipse · MySQL · Servlet · JSP · Bootstrap                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  02  STUDENT MANAGEMENT SYSTEM                           [JDBC/MySQL/Java]  │
+│      ─────────────────────────────────────────────────────────────────────  │
+│      Streamlined record management · Add / View / Delete student data       │
+│      Stack → Eclipse · MySQL · JDBC · HTML5 · CSS                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  03  FEE MANAGEMENT APPLICATION                        [Servlet/Oracle/SQL] │
+│      ─────────────────────────────────────────────────────────────────────  │
+│      Role-based portal · Admin + Accountant · Due fee tracker               │
+│      Stack → Eclipse · Oracle · MySQL · Servlet · HTML5                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  04  PORTFOLIO WEBSITE                              [HTML/CSS/JS/Bootstrap] │
+│      ─────────────────────────────────────────────────────────────────────  │
+│      Responsive personal site · Hosted on GitHub Pages                      │
+│      Stack → VS Code · HTML5 · CSS3 · JS · Bootstrap · GitHub              │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> EXPERIENCE`
+
+```
+▸  COMMUNITY EDUCATOR
+   Apnalaya · Mumbai, India · 2022 – 2023 · (1 yr+)
+
+   — Taught Core Java programming & English language
+   — Designed hands-on lesson plans and coding exercises
+   — Provided individual mentoring and tracked student progress
+   — Collaborated on community engagement initiatives
+```
+
+---
+
+## `> STRENGTHS`
+
+<div align="center">
+
+![Leadership](https://img.shields.io/badge/%E2%96%B8_LEADERSHIP-e8d5a3?style=flat-square&labelColor=e8d5a3&color=0d0d0d)
+&nbsp;
+![Decision Making](https://img.shields.io/badge/%E2%96%B8_DECISION_MAKING-4f9cf9?style=flat-square&labelColor=4f9cf9&color=0d0d0d)
+&nbsp;
+![Communication](https://img.shields.io/badge/%E2%96%B8_COMMUNICATION-7c6af5?style=flat-square&labelColor=7c6af5&color=0d0d0d)
+&nbsp;
+![Multitasking](https://img.shields.io/badge/%E2%96%B8_MULTI--TASKING-3ecf8e?style=flat-square&labelColor=3ecf8e&color=0d0d0d)
+&nbsp;
+![Quick Learner](https://img.shields.io/badge/%E2%96%B8_QUICK_LEARNER-f97316?style=flat-square&labelColor=f97316&color=0d0d0d)
 
 </div>
 
 ---
 
-### Connect With Me
+## `> CONNECT`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shaikhshahnoor07.github.io/portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.shahnoor@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikhshahnoor07)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919136861845)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikhshahnoor07)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e8d5a3?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://shaikhshahnoor07.github.io/portfolio/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.shahnoor@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikhshahnoor07)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919136861845)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikhshahnoor07)
+
+<br/>
+
+![OPEN TO WORK](https://img.shields.io/badge/◈%20OPEN%20TO%20WORK%20·%20IMMEDIATE%20JOINER%20◈-0d1117?style=for-the-badge&labelColor=e8d5a3&color=0d1117)
+
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=shaikhshahnoor07&label=PROFILE+VIEWS&color=e8d5a3&style=flat-square)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=shaikhshahnoor07&label=Profile+Views&color=58a6ff&style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║   "Build efficient solutions. Take on challenges. Never stop learning."         ║
+║                                                           — Shahnoor Shaikh     ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
